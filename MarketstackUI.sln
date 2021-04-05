@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketstackUI", "MarketstackUI\MarketstackUI.csproj", "{538C12DF-F32C-47BC-8830-B9BF14FE5EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStackLibrary", "MarketStackLibrary\MarketStackLibrary.csproj", "{C40C7624-1A16-4098-985F-102594FC251C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538C12DF-F32C-47BC-8830-B9BF14FE5EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538C12DF-F32C-47BC-8830-B9BF14FE5EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538C12DF-F32C-47BC-8830-B9BF14FE5EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538C12DF-F32C-47BC-8830-B9BF14FE5EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40C7624-1A16-4098-985F-102594FC251C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40C7624-1A16-4098-985F-102594FC251C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40C7624-1A16-4098-985F-102594FC251C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40C7624-1A16-4098-985F-102594FC251C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E2A1A0-4881-4A6C-BA71-9DB01D8A9C81}
+	EndGlobalSection
+EndGlobal
